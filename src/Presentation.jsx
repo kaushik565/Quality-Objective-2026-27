@@ -5,6 +5,7 @@ import PresentationSelector from './components/PresentationSelector'
 import SlideSkeleton from './components/SlideSkeleton'
 
 // Lazy loaded slides
+const IntroSlides = lazy(() => import('./slides/IntroSlides'))
 const QualityObjectivesSlide = lazy(() => import('./slides/QualityObjectivesSlide'))
 const defaultDarkLogo = 'https://raw.githubusercontent.com/kaushik565/KAushikMRMNEW/master/public/logo.png'
 const defaultLightLogo = 'https://www.molbiodiagnostics.com/wp-content/uploads/2025/01/footer-logo.png'
@@ -32,7 +33,10 @@ export default function Presentation() {
       {/* QA Presentation */}
       {selectedDepartment === 'QA' && (
         <Suspense fallback={<SlideSkeleton />}>
-          <ErrorBoundary><QualityObjectivesSlide /></ErrorBoundary>
+          <ErrorBoundary>
+            <IntroSlides />
+            <QualityObjectivesSlide />
+          </ErrorBoundary>
           <RevealInitializer 
             selectedDepartment={selectedDepartment} 
             setCurrentLogo={setCurrentLogo} 
