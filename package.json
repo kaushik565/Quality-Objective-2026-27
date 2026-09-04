@@ -1,0 +1,35 @@
+{
+    "name": "ipqa-mrm-presentation",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "export-pdf": "playwright install chromium && node scripts/export-pdf.js",
+        "doc:pdf": "md-to-pdf docs/guide.md --dest docs/guide.pdf"
+    },
+    "dependencies": {
+        "chart.js": "^4.4.1",
+        "framer-motion": "^12.40.0",
+        "lucide-react": "^1.18.0",
+        "react": "^18.3.1",
+        "react-chartjs-2": "^5.2.0",
+        "react-dom": "^18.3.1",
+        "recharts": "^3.5.1",
+        "reveal.js": "^5.1.0"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.3.1",
+        "@types/react": "^18.3.12",
+        "@types/react-dom": "^18.3.1",
+        "@vitejs/plugin-react": "^4.3.3",
+        "autoprefixer": "^10.5.0",
+        "md-to-pdf": "^5.2.4",
+        "playwright": "^1.48.2",
+        "postcss": "^8.5.15",
+        "tailwindcss": "^4.3.1",
+        "vite": "^5.4.10"
+    }
+}

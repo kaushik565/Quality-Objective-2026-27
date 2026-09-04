@@ -1,0 +1,188 @@
+﻿{
+    "activities": [{
+            "activity": "Line clearance",
+            "responsibility": "Siddhi",
+            "months": {
+                "June": 784,
+                "July": 1512,
+                "August": 1075,
+                "September": 1150,
+                "October": 1036,
+                "November": 1021
+            },
+            "notApproved": {
+                "June": 0,
+                "July": 0,
+                "August": 0,
+                "September": 5,
+                "October": 2,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Line-closure",
+            "responsibility": "Vaishnavi",
+            "months": {
+                "June": 782,
+                "July": 1428,
+                "August": 1270,
+                "September": 1090,
+                "October": 1037,
+                "November": 1013
+            },
+            "notApproved": {
+                "June": 0,
+                "July": 2,
+                "August": 0,
+                "September": 1,
+                "October": 1,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Re verification",
+            "responsibility": "Ria",
+            "months": {
+                "June": 205,
+                "July": 374,
+                "August": 351,
+                "September": 321,
+                "October": 326,
+                "November": 301
+            },
+            "notApproved": {
+                "June": 0,
+                "July": 0,
+                "August": 0,
+                "September": 1,
+                "October": 1,
+                "November": 1
+            }
+        },
+        {
+            "activity": "Incoming sampling",
+            "responsibility": "Vinita",
+            "months": {
+                "June": 255,
+                "July": 436,
+                "August": 272,
+                "September": 307,
+                "October": 272,
+                "November": 597
+            },
+            "observations": {
+                "June": 1,
+                "July": 3,
+                "August": 1,
+                "September": 4,
+                "October": 0,
+                "November": 1
+            }
+        },
+        {
+            "activity": "In-process sampling",
+            "responsibility": "Kimberly",
+            "months": {
+                "June": 260,
+                "July": 450,
+                "August": 355,
+                "September": 329,
+                "October": 333,
+                "November": 271
+            },
+            "observations": {
+                "June": 0,
+                "July": 4,
+                "August": 4,
+                "September": 0,
+                "October": 0,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Finished kit sampling",
+            "responsibility": "Akshay",
+            "months": {
+                "June": 48,
+                "July": 80,
+                "August": 95,
+                "September": 60,
+                "October": 42,
+                "November": 66
+            },
+            "observations": {
+                "June": 0,
+                "July": 0,
+                "August": 4,
+                "September": 0,
+                "October": 0,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Control kit sampling",
+            "responsibility": "Makrand",
+            "months": {
+                "June": 46,
+                "July": 65,
+                "August": 91,
+                "September": 53,
+                "October": 40,
+                "November": 53
+            },
+            "observations": {
+                "June": 0,
+                "July": 0,
+                "August": 2,
+                "September": 0,
+                "October": 0,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Stability kit sampling",
+            "responsibility": "Ritul",
+            "months": {
+                "June": 10,
+                "July": 0,
+                "August": 0,
+                "September": 0,
+                "October": 3,
+                "November": 5
+            },
+            "notes": {
+                "June": 0,
+                "July": 0,
+                "August": 0,
+                "September": 0,
+                "October": 0,
+                "November": 0
+            }
+        },
+        {
+            "activity": "Equipment calibration data",
+            "responsibility": "Vinay",
+            "months": {
+                "June": 258,
+                "July": 132,
+                "August": 134,
+                "September": 249,
+                "October": 230,
+                "November": 150
+            }
+        },
+        {
+            "activity": "Other services",
+            "responsibility": "Brijesh",
+            "months": {
+                "June": null,
+                "July": null,
+                "August": null,
+                "September": null,
+                "October": null,
+                "November": 1
+            },
+            "details": "Legal metrology verification of weighing balance"
+        }
+    ]
+}

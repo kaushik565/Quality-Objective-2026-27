@@ -1,0 +1,68 @@
+﻿[
+  {
+    "month": "Jan-25",
+    "minor": 7,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "Feb-25",
+    "minor": 12,
+    "major": 3,
+    "critical": 0
+  },
+  {
+    "month": "Mar-25",
+    "minor": 20,
+    "major": 1,
+    "critical": 1
+  },
+  {
+    "month": "Apr-25",
+    "minor": 4,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "May-25",
+    "minor": 6,
+    "major": 1,
+    "critical": 0
+  },
+  {
+    "month": "Jun-25",
+    "minor": 1,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "Jul-25",
+    "minor": 1,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "Aug-25",
+    "minor": 4,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "Sep-25",
+    "minor": 7,
+    "major": 2,
+    "critical": 0
+  },
+  {
+    "month": "Oct-25",
+    "minor": 5,
+    "major": 0,
+    "critical": 0
+  },
+  {
+    "month": "Nov-25",
+    "minor": 6,
+    "major": 0,
+    "critical": 0
+  }
+]
