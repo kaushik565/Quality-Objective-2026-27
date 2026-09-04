@@ -13,7 +13,7 @@ export default function IntroSlides() {
         
         <div style={{ zIndex: 1, textAlign: 'center' }}>
           <div style={{ display: 'inline-block', padding: '10px 24px', borderRadius: '100px', background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)', color: '#94a3b8', fontSize: 20, fontWeight: 700, letterSpacing: '0.2em', textTransform: 'uppercase', marginBottom: 40 }}>
-            Management Review
+            Quality Assurance
           </div>
           <h1 style={{ fontSize: 96, fontWeight: 900, color: '#f8fafc', lineHeight: 1.1, letterSpacing: '-0.02em', marginBottom: 24, margin: 0 }}>
             Quality Objectives<br />
